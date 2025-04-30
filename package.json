@@ -1,6 +1,6 @@
 {
   "name": "bolt-ts-starter-template",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "A scaffold template for Slack apps",
   "main": "dist/app.js",
   "scripts": {
